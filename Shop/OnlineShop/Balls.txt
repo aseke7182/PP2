@@ -1,0 +1,5 @@
+FootBall 15000
+BasketBall 12000
+VolleyBall 10000
+Golf 1000
+Tennis 500

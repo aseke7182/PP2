@@ -1,0 +1,7 @@
+C:\Users\Askar\Desktop\PP2\Week 2\max and min\max and min\bin\Debug\max and min.exe.config
+C:\Users\Askar\Desktop\PP2\Week 2\max and min\max and min\bin\Debug\max and min.exe
+C:\Users\Askar\Desktop\PP2\Week 2\max and min\max and min\bin\Debug\max and min.pdb
+C:\Users\Askar\Desktop\PP2\Week 2\max and min\max and min\obj\Debug\max and min.csprojResolveAssemblyReference.cache
+C:\Users\Askar\Desktop\PP2\Week 2\max and min\max and min\obj\Debug\max and min.csproj.CoreCompileInputs.cache
+C:\Users\Askar\Desktop\PP2\Week 2\max and min\max and min\obj\Debug\max and min.exe
+C:\Users\Askar\Desktop\PP2\Week 2\max and min\max and min\obj\Debug\max and min.pdb

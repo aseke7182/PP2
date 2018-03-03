@@ -1,0 +1,7 @@
+C:\Users\Askar\source\repos\BigInteger\BigInteger\bin\Debug\BigInteger.exe.config
+C:\Users\Askar\source\repos\BigInteger\BigInteger\bin\Debug\BigInteger.exe
+C:\Users\Askar\source\repos\BigInteger\BigInteger\bin\Debug\BigInteger.pdb
+C:\Users\Askar\source\repos\BigInteger\BigInteger\obj\Debug\BigInteger.csprojResolveAssemblyReference.cache
+C:\Users\Askar\source\repos\BigInteger\BigInteger\obj\Debug\BigInteger.csproj.CoreCompileInputs.cache
+C:\Users\Askar\source\repos\BigInteger\BigInteger\obj\Debug\BigInteger.exe
+C:\Users\Askar\source\repos\BigInteger\BigInteger\obj\Debug\BigInteger.pdb

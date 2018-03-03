@@ -1,0 +1,3 @@
+Child 35000
+CityRide 50000
+FastRacing 70000

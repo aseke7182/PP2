@@ -1,0 +1,3 @@
+Amateur 20000
+Moderate 25000
+Professional 30000

@@ -1,0 +1,14 @@
+C:\Users\Askar\Desktop\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Askar\Desktop\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\Askar\Desktop\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\Askar\Desktop\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\Askar\Desktop\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Askar\Desktop\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\Askar\Desktop\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\Askar\Desktop\PP2\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Askar\Desktop\PP2\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\Askar\Desktop\PP2\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\Askar\Desktop\PP2\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\Askar\Desktop\PP2\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Askar\Desktop\PP2\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\Askar\Desktop\PP2\Shop\Shop\obj\Debug\Shop.pdb

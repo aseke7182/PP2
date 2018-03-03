@@ -1,0 +1,28 @@
+C:\Users\Askar\Desktop\PP2\Week 4\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Askar\Desktop\PP2\Week 4\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Askar\Desktop\PP2\Week 4\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Askar\Desktop\PP2\Week 4\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Askar\Desktop\PP2\Week 4\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Askar\Desktop\PP2\Week 4\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Askar\Desktop\PP2\Week 4\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Askar\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Askar\source\repos\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Askar\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Askar\source\repos\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Askar\source\repos\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Askar\source\repos\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Askar\source\repos\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Askar\Desktop\PP2\Week 4\Snake — копия\Snake\bin\Debug\Snake.exe.config
+C:\Users\Askar\Desktop\PP2\Week 4\Snake — копия\Snake\bin\Debug\Snake.exe
+C:\Users\Askar\Desktop\PP2\Week 4\Snake — копия\Snake\bin\Debug\Snake.pdb
+C:\Users\Askar\Desktop\PP2\Week 4\Snake — копия\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Askar\Desktop\PP2\Week 4\Snake — копия\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Askar\Desktop\PP2\Week 4\Snake — копия\Snake\obj\Debug\Snake.exe
+C:\Users\Askar\Desktop\PP2\Week 4\Snake — копия\Snake\obj\Debug\Snake.pdb
+C:\Users\Askar\Desktop\PP2\Week 4\Snake Serializable\Snake\bin\Debug\Snake.exe.config
+C:\Users\Askar\Desktop\PP2\Week 4\Snake Serializable\Snake\bin\Debug\Snake.exe
+C:\Users\Askar\Desktop\PP2\Week 4\Snake Serializable\Snake\bin\Debug\Snake.pdb
+C:\Users\Askar\Desktop\PP2\Week 4\Snake Serializable\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Askar\Desktop\PP2\Week 4\Snake Serializable\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Askar\Desktop\PP2\Week 4\Snake Serializable\Snake\obj\Debug\Snake.exe
+C:\Users\Askar\Desktop\PP2\Week 4\Snake Serializable\Snake\obj\Debug\Snake.pdb

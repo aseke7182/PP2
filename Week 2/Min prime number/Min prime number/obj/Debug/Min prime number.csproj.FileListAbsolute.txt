@@ -1,0 +1,7 @@
+C:\Users\Askar\Desktop\PP2\Week 2\Min prime number\Min prime number\bin\Debug\Min prime number.exe.config
+C:\Users\Askar\Desktop\PP2\Week 2\Min prime number\Min prime number\bin\Debug\Min prime number.exe
+C:\Users\Askar\Desktop\PP2\Week 2\Min prime number\Min prime number\bin\Debug\Min prime number.pdb
+C:\Users\Askar\Desktop\PP2\Week 2\Min prime number\Min prime number\obj\Debug\Min prime number.csprojResolveAssemblyReference.cache
+C:\Users\Askar\Desktop\PP2\Week 2\Min prime number\Min prime number\obj\Debug\Min prime number.csproj.CoreCompileInputs.cache
+C:\Users\Askar\Desktop\PP2\Week 2\Min prime number\Min prime number\obj\Debug\Min prime number.exe
+C:\Users\Askar\Desktop\PP2\Week 2\Min prime number\Min prime number\obj\Debug\Min prime number.pdb

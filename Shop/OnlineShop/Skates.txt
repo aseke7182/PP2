@@ -1,0 +1,2 @@
+FigureSkating 15000
+Hockey 25000
