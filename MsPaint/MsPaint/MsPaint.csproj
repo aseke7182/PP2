@@ -106,5 +106,14 @@
   <ItemGroup>
     <None Include="Resources\Без названия.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\TKeBB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Без названия %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Без названия %282%29.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

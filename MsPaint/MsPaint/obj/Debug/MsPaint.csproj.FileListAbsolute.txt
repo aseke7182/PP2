@@ -8,3 +8,13 @@ C:\Users\Askar\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint.csproj.GenerateRes
 C:\Users\Askar\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint.csproj.CoreCompileInputs.cache
 C:\Users\Askar\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint.exe
 C:\Users\Askar\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint.pdb
+C:\Users\Askar\Desktop\PP2\MsPaint\MsPaint\bin\Debug\MsPaint.exe.config
+C:\Users\Askar\Desktop\PP2\MsPaint\MsPaint\bin\Debug\MsPaint.exe
+C:\Users\Askar\Desktop\PP2\MsPaint\MsPaint\bin\Debug\MsPaint.pdb
+C:\Users\Askar\Desktop\PP2\MsPaint\MsPaint\obj\Debug\MsPaint.csprojResolveAssemblyReference.cache
+C:\Users\Askar\Desktop\PP2\MsPaint\MsPaint\obj\Debug\MsPaint.Form1.resources
+C:\Users\Askar\Desktop\PP2\MsPaint\MsPaint\obj\Debug\MsPaint.Properties.Resources.resources
+C:\Users\Askar\Desktop\PP2\MsPaint\MsPaint\obj\Debug\MsPaint.csproj.GenerateResource.Cache
+C:\Users\Askar\Desktop\PP2\MsPaint\MsPaint\obj\Debug\MsPaint.csproj.CoreCompileInputs.cache
+C:\Users\Askar\Desktop\PP2\MsPaint\MsPaint\obj\Debug\MsPaint.exe
+C:\Users\Askar\Desktop\PP2\MsPaint\MsPaint\obj\Debug\MsPaint.pdb

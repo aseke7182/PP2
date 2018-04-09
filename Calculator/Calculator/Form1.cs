@@ -61,6 +61,7 @@ namespace Calculator
                 textBox1.Text = "0";
             }
         }
+
         private void FastWrite(object sender, EventArgs e)
         {
             Button btn = sender as Button;
@@ -160,11 +161,18 @@ namespace Calculator
         }
         private void Point(object sender, EventArgs e)
         {
+            if (textBox1.Text.Contains(","))
+            {
+                point = false;
+            }
+            else
+            {
+                point = true;
+            }
             if (point)
             {
                 textBox1.Text = textBox1.Text + ',';
-                point = false;
-            }
+             }
         }
         public void Equal(object sender, EventArgs e)
         {
@@ -234,6 +242,7 @@ namespace Calculator
             {
                 Equal(btn, e);
                 cnt++;
+                operation = "";
             }
             first = double.Parse(textBox1.Text) ;
             oper = true;

@@ -113,6 +113,16 @@ namespace MsPaint.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap TKeBB {
+            get {
+                object obj = ResourceManager.GetObject("TKeBB", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap w256h2561372501659Eyedropper5 {
             get {
                 object obj = ResourceManager.GetObject("w256h2561372501659Eyedropper5", resourceCulture);
@@ -136,6 +146,26 @@ namespace MsPaint.Properties {
         internal static System.Drawing.Bitmap Без_названия__1_ {
             get {
                 object obj = ResourceManager.GetObject("Без названия (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Без_названия__1_1 {
+            get {
+                object obj = ResourceManager.GetObject("Без названия (1)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Без_названия__2_ {
+            get {
+                object obj = ResourceManager.GetObject("Без названия (2)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
