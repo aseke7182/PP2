@@ -145,30 +145,9 @@ namespace MsPaint
             }
             if (tool == 3)
             {
-                if (prev.X < cur.X && prev.Y < cur.Y)
-                {
-                    e.Graphics.DrawLine(pen, prev.X, cur.Y, cur.X, cur.Y);
-                    e.Graphics.DrawLine(pen, cur.X, cur.Y, (cur.X + prev.X) / 2, prev.Y);
-                    e.Graphics.DrawLine(pen, prev.X, cur.Y, (cur.X + prev.X) / 2, prev.Y);
-                }
-                if (prev.X > cur.X && prev.Y > cur.Y)
-                {
-                    e.Graphics.DrawLine(pen, prev.X, prev.Y, cur.X, prev.Y);
-                    e.Graphics.DrawLine(pen, cur.X, prev.Y, (cur.X + prev.X) / 2, cur.Y);
-                    e.Graphics.DrawLine(pen, prev.X, prev.Y, (cur.X + prev.X) / 2, cur.Y);
-                }
-                if (prev.X < cur.X && prev.Y > cur.Y)
-                {
-                    e.Graphics.DrawLine(pen, prev.X, prev.Y, cur.X, prev.Y);
-                    e.Graphics.DrawLine(pen, cur.X, prev.Y, (cur.X + prev.X) / 2, cur.Y);
-                    e.Graphics.DrawLine(pen, prev.X, prev.Y, (cur.X + prev.X) / 2, cur.Y);
-                }
-                if (prev.X > cur.X && prev.Y < cur.Y)
-                {
-                    e.Graphics.DrawLine(pen, prev.X, cur.Y, cur.X, cur.Y);
-                    e.Graphics.DrawLine(pen, cur.X, cur.Y, (cur.X + prev.X) / 2, prev.Y);
-                    e.Graphics.DrawLine(pen, prev.X, cur.Y, (cur.X + prev.X) / 2, prev.Y);
-                }
+                Triangle tr = new Triangle(prev , cur);
+                tr.Draw(e.Graphics, pen);
+
             }
             if (tool == 5)
             {
@@ -339,12 +318,14 @@ namespace MsPaint
 
         private void OpenToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            openFileDialog1.ShowDialog();
-            picture = openFileDialog1.FileName;
-            bmp = new Bitmap(picture);
-            pictureBox1.Refresh();
-            pictureBox1.Image = bmp;
-            g = Graphics.FromImage(bmp);
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                picture = openFileDialog1.FileName;
+                bmp = new Bitmap(picture);
+                pictureBox1.Refresh();
+                pictureBox1.Image = bmp;
+                g = Graphics.FromImage(bmp);
+            }
         }
         private void SaveToolStripMenuItem1_Click(object sender, EventArgs e)
         {
