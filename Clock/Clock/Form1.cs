@@ -24,8 +24,9 @@ namespace Clock
         int minutedegree;
         int hourdegree;
         int minutex,minutey;
-
         int hourx,houry;
+        int numb=2;
+        int numbx, numby;
         public Form1()
         {
             InitializeComponent();
@@ -53,7 +54,17 @@ namespace Clock
             e.Graphics.DrawLine(new Pen(Color.Red, 2), width, height, secondx, secondy);
             e.Graphics.DrawLine(new Pen(Color.Blue, 3), width, height, minutex, minutey);
             e.Graphics.DrawLine(new Pen(Color.Black, 3), width, height, hourx, houry);
-            
+            for(int i=0; i<360; i += 6)
+            {
+                if (i % 30 == 0)
+                {
+                    numbx = width + (int)((secondradius-10) * Math.Cos(i * Math.PI / 180));
+                    numby = height + (int)((secondradius-10) * Math.Sin(i * Math.PI / 180));
+                    numb += 1;
+                    if (numb == 13) numb = 1;
+                    e.Graphics.DrawString(numb.ToString(), DefaultFont, new SolidBrush(Color.Black), numbx, numby);
+                }
+            }
         }
 
         private void timer1_Tick(object sender, EventArgs e)
