@@ -1,0 +1,10 @@
+C:\Users\Askar\source\repos\Text And Button\Text And Button\bin\Debug\Text And Button.exe.config
+C:\Users\Askar\source\repos\Text And Button\Text And Button\bin\Debug\Text And Button.exe
+C:\Users\Askar\source\repos\Text And Button\Text And Button\bin\Debug\Text And Button.pdb
+C:\Users\Askar\source\repos\Text And Button\Text And Button\obj\Debug\Text And Button.csprojResolveAssemblyReference.cache
+C:\Users\Askar\source\repos\Text And Button\Text And Button\obj\Debug\Text_And_Button.Form1.resources
+C:\Users\Askar\source\repos\Text And Button\Text And Button\obj\Debug\Text_And_Button.Properties.Resources.resources
+C:\Users\Askar\source\repos\Text And Button\Text And Button\obj\Debug\Text And Button.csproj.GenerateResource.Cache
+C:\Users\Askar\source\repos\Text And Button\Text And Button\obj\Debug\Text And Button.csproj.CoreCompileInputs.cache
+C:\Users\Askar\source\repos\Text And Button\Text And Button\obj\Debug\Text And Button.exe
+C:\Users\Askar\source\repos\Text And Button\Text And Button\obj\Debug\Text And Button.pdb

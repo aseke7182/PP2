@@ -1,0 +1,10 @@
+C:\Users\Askar\source\repos\Minigame2\Minigame2\bin\Debug\Minigame2.exe.config
+C:\Users\Askar\source\repos\Minigame2\Minigame2\bin\Debug\Minigame2.exe
+C:\Users\Askar\source\repos\Minigame2\Minigame2\bin\Debug\Minigame2.pdb
+C:\Users\Askar\source\repos\Minigame2\Minigame2\obj\Debug\Minigame2.csprojResolveAssemblyReference.cache
+C:\Users\Askar\source\repos\Minigame2\Minigame2\obj\Debug\Minigame2.Form1.resources
+C:\Users\Askar\source\repos\Minigame2\Minigame2\obj\Debug\Minigame2.Properties.Resources.resources
+C:\Users\Askar\source\repos\Minigame2\Minigame2\obj\Debug\Minigame2.csproj.GenerateResource.Cache
+C:\Users\Askar\source\repos\Minigame2\Minigame2\obj\Debug\Minigame2.csproj.CoreCompileInputs.cache
+C:\Users\Askar\source\repos\Minigame2\Minigame2\obj\Debug\Minigame2.exe
+C:\Users\Askar\source\repos\Minigame2\Minigame2\obj\Debug\Minigame2.pdb

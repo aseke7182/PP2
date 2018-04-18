@@ -1,0 +1,10 @@
+C:\Users\Askar\source\repos\Mail\Mail\bin\Debug\Mail.exe.config
+C:\Users\Askar\source\repos\Mail\Mail\bin\Debug\Mail.exe
+C:\Users\Askar\source\repos\Mail\Mail\bin\Debug\Mail.pdb
+C:\Users\Askar\source\repos\Mail\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+C:\Users\Askar\source\repos\Mail\Mail\obj\Debug\Mail.Form1.resources
+C:\Users\Askar\source\repos\Mail\Mail\obj\Debug\Mail.Properties.Resources.resources
+C:\Users\Askar\source\repos\Mail\Mail\obj\Debug\Mail.csproj.GenerateResource.Cache
+C:\Users\Askar\source\repos\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+C:\Users\Askar\source\repos\Mail\Mail\obj\Debug\Mail.exe
+C:\Users\Askar\source\repos\Mail\Mail\obj\Debug\Mail.pdb
